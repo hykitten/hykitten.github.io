@@ -1,0 +1,33 @@
+h1 {
+	color: #366E9F;
+	font-family: sans-serif;
+	font-style: italic;
+}
+
+h4 {
+	font-family: serif;
+}
+
+.toto-big-box {
+	text-align: center;
+}
+
+.toto-text {
+	font-family: serif;
+	width: 700px;
+	text-align: center;
+	vertical-align;
+	display: inline-block;
+}
+
+.special-toto:hover{
+	opacity:0.6;
+}
+
+.chibi-toto {
+	opacity:0.0;
+}
+
+.chibi-toto:hover {
+	opacity:1.0;
+}
